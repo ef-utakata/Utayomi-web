@@ -1,0 +1,2 @@
+# Utayomi-web
+Utayomiで生成したコメントをwebブラウザー上で閲覧するためのシステム
